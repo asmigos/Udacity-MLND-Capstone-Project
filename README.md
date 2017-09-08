@@ -44,3 +44,7 @@ The dataset was compiled by The Nature Conservancy in partnership with Satlink, 
 * openCV (cv2)
 * seaborn
 * tqdm
+
+## Run
+* Open `Jupyter Notebook` in the root folder.
+
