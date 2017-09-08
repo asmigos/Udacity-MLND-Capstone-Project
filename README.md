@@ -31,16 +31,16 @@ The dataset was compiled by The Nature Conservancy in partnership with Satlink, 
 
 
 ## Requirements
-*Python 3.5
-*Ipython/Jupyter Notebook
+* Python 3.5
+* Ipython/Jupyter Notebook
 
 ## Python libraries
-*tensorflow
-*keras
-*matplotlib
-*sklearn
-*numpy
-*pandas
-*openCV (cv2)
-*seaborn
-*tqdm
+* tensorflow
+* keras
+* matplotlib
+* sklearn
+* numpy
+* pandas
+* openCV (cv2)
+* seaborn
+* tqdm
