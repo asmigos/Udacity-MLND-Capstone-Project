@@ -29,3 +29,18 @@ Eight target categories are available in the dataset
 
 The dataset was compiled by The Nature Conservancy in partnership with Satlink, Archipelago Marine Research, the Pacific Community, the Solomon Islands Ministry of Fisheries and Marine Resources, the Australia Fisheries Management Authority, and the governments of New Caledonia and Palau.
 
+
+## Requirements
+Python 3.5
+Ipython/Jupyter Notebook
+
+## Python libraries
+tensorflow
+keras
+matplotlib
+sklearn
+numpy
+pandas
+openCV (cv2)
+seaborn
+tqdm
