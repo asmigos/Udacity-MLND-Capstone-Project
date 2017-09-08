@@ -46,5 +46,5 @@ The dataset was compiled by The Nature Conservancy in partnership with Satlink, 
 * tqdm
 
 ## Run
-* Open `Jupyter Notebook` in the root folder.
+* Open `Jupyter Notebook mlnd_capstone_project.ipynb` in the root folder.
 
